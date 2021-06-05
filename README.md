@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component solution
+Deployed here: https://profile-cd-comp.netlify.app
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
@@ -17,8 +17,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/used-flexbox-q4km_SnH0)
+- [Live Site URL](https://profile-cd-comp.netlify.app)
 
 ### Built with
 
